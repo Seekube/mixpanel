@@ -1,6 +1,6 @@
 {
-    "name": "Seekube/mixpanel",
-    "type": "library",
+    "name": "seekube/mixpanel",
+    "type": "symfony-bundle",
     "description": "Library for MixPanel",
     "keywords": ["symfony","mixpanel"],
     "homepage": "http://github.com/Seekube/mixpanel",
