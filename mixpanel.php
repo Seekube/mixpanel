@@ -1,4 +1,6 @@
 <?php
+
+namespace MixPanel\mixpanel;
 /*
  * PHP library for Mixpanel data API -- http://www.mixpanel.com/
  * Requires PHP 5.2 with JSON
