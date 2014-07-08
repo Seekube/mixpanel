@@ -2,14 +2,12 @@
 
 namespace MixPanel\mixpanel;
 
-use Symfony\Component\HttpKernel\Bundle\Bundle;
-
 /*
  * PHP library for Mixpanel data API -- http://www.mixpanel.com/
  * Requires PHP 5.2 with JSON
  */
 
-class MixpanelBundle extends Bundle
+class MixpanelBundle
 {
     private $api_url = 'http://mixpanel.com/api';
     private $version = '2.0';
