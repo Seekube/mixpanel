@@ -1,21 +1,11 @@
 {
     "name": "seekube/mixpanel",
-    "type": "symfony-bundle",
+    "type": "library",
     "description": "Library for MixPanel",
     "keywords": ["symfony","mixpanel"],
     "homepage": "http://github.com/Seekube/mixpanel",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "MixPanel",
-            "email": "contact@seekube.com",
-            "homepage": "http://www.seekube.com",
-            "role": "Developer"
-        }
-    ],
     "require": {
-        "php": ">=5.3.0",
-        "symfony/framework-bundle": "2.*"
+        "php": ">=5.3.0"
     },
   "autoload":     {
         "psr-0": { "MixPanel\\mixpanel": "" }
